@@ -1,6 +1,6 @@
-def something(name):
-    print(f'my name is {name}')
+def something(name, age):
+    print(f'my name is {name} and I am {age}')
     return name
 
 
-something('zahur')
+something('zahur', 46)
