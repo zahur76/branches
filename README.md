@@ -8,4 +8,6 @@
 6. Create pull request from github repo on your branch
 7. Merge will be done by authorised users  after review
 
+8. Can also pull changes using: ``` git pull origin master ```
+
 additional comment........
